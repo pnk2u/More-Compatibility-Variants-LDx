@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#vinery:cherry_logs",
+      "required": false
+    },
+    {
+      "id": "#vinery:apple_logs",
+      "required": false
+    },
+    {
+      "id": "#meadow:logs",
+      "required": false
+    },
+    {
+      "id": "#bloomingnature:logs",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "lolmcv", "beachparty"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "group": "chest_boat",
+  "ingredients": [
+    {
+      "tag": "morecompvarsldx:chests"
+    },
+    {
+      "item": "beachparty:palm_boat"
+    }
+  ],
+  "result": {
+    "item": "beachparty:palm_chest_boat"
+  }
+}
