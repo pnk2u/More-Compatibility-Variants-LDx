@@ -12,7 +12,7 @@
   "group": "wooden_axes",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "tag": "mstv-base:sticks"
     },
     "X": {
       "tag": "morecompvarsldx:planks"
